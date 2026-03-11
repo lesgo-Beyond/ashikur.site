@@ -1,0 +1,5 @@
+user input
+if else statement
+conditionals
+data structures types arrays lists
+string theory & number theory
